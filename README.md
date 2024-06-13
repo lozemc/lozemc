@@ -41,4 +41,4 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-@lozemc-white?style=for-the-badge&logo=telegram)](https://t.me/lozemc)
 [![Mail](https://img.shields.io/badge/Почта-lozemc@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:lozemc@gmail.com)
-[![Site](https://img.shields.io/badge/сайт-lozemc.ru-white?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lozemc.ru)
+[![Site](https://img.shields.io/badge/сайт-lozemc.ru-white?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lozemc.ru/?utm_source=github)
